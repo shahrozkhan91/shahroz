@@ -1,0 +1,5 @@
+this is some text in my file.
+
+
+git add *
+git commit -m "this is my firt work"
